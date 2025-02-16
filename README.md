@@ -19,7 +19,7 @@ No frameworks or libraries used, only pure HTML and CSS
 
 Getting Started:
 
-Clone the repository using git clone {link}
+Clone the repository using git clone https://srkamesh.github.io/udemy-clone-website/
 Open the index.html file in a web browser to view the website
 Contributing:
 
